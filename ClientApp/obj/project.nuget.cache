@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GydQcx4SunA=",
+  "success": true,
+  "projectFilePath": "C:\\git\\memorydumpapis\\ClientApp\\ClientApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jgrab\\.nuget\\packages\\system.net.http.json\\9.0.4\\system.net.http.json.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
