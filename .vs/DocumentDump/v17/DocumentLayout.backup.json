@@ -7,32 +7,12 @@
       "RelativeMoniker": "D:0:0:{BA918ADC-0430-46BA-BAD7-36C9D8FE10E8}|ServerApi\\ServerApi.csproj|solutionrelative:serverapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA918ADC-0430-46BA-BAD7-36C9D8FE10E8}|ServerApi\\ServerApi.csproj|c:\\git\\memorydumpapis\\serverapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BA918ADC-0430-46BA-BAD7-36C9D8FE10E8}|ServerApi\\ServerApi.csproj|solutionrelative:serverapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA918ADC-0430-46BA-BAD7-36C9D8FE10E8}|ServerApi\\ServerApi.csproj|c:\\git\\memorydumpapis\\serverapi\\serverapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{BA918ADC-0430-46BA-BAD7-36C9D8FE10E8}|ServerApi\\ServerApi.csproj|solutionrelative:serverapi\\serverapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E8B4E2C-439A-4BA0-BF0F-D109A3EA1203}|ClientApp\\ClientApp.csproj|c:\\git\\memorydumpapis\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E8B4E2C-439A-4BA0-BF0F-D109A3EA1203}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA918ADC-0430-46BA-BAD7-36C9D8FE10E8}|ServerApi\\ServerApi.csproj|c:\\git\\memorydumpapis\\serverapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA918ADC-0430-46BA-BAD7-36C9D8FE10E8}|ServerApi\\ServerApi.csproj|solutionrelative:serverapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA918ADC-0430-46BA-BAD7-36C9D8FE10E8}|ServerApi\\ServerApi.csproj|c:\\git\\memorydumpapis\\serverapi\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA918ADC-0430-46BA-BAD7-36C9D8FE10E8}|ServerApi\\ServerApi.csproj|solutionrelative:serverapi\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA918ADC-0430-46BA-BAD7-36C9D8FE10E8}|ServerApi\\ServerApi.csproj|c:\\git\\memorydumpapis\\serverapi\\serverapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BA918ADC-0430-46BA-BAD7-36C9D8FE10E8}|ServerApi\\ServerApi.csproj|solutionrelative:serverapi\\serverapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA918ADC-0430-46BA-BAD7-36C9D8FE10E8}|ServerApi\\ServerApi.csproj|c:\\git\\memorydumpapis\\serverapi\\models\\documentpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA918ADC-0430-46BA-BAD7-36C9D8FE10E8}|ServerApi\\ServerApi.csproj|solutionrelative:serverapi\\models\\documentpayload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA918ADC-0430-46BA-BAD7-36C9D8FE10E8}|ServerApi\\ServerApi.csproj|c:\\git\\memorydumpapis\\serverapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA918ADC-0430-46BA-BAD7-36C9D8FE10E8}|ServerApi\\ServerApi.csproj|solutionrelative:serverapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,99 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\git\\memorydumpapis\\ServerApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ServerApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\git\\memorydumpapis\\ServerApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ServerApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-16T20:42:14.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\git\\memorydumpapis\\ServerApi\\appsettings.json",
-              "RelativeDocumentMoniker": "ServerApi\\appsettings.json",
-              "ToolTip": "C:\\git\\memorydumpapis\\ServerApi\\appsettings.json",
-              "RelativeToolTip": "ServerApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-16T20:34:55.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\git\\memorydumpapis\\ClientApp\\Program.cs",
-              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
-              "ToolTip": "C:\\git\\memorydumpapis\\ClientApp\\Program.cs",
-              "RelativeToolTip": "ClientApp\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAowBsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T20:35:54.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServerApi.http",
-              "DocumentMoniker": "C:\\git\\memorydumpapis\\ServerApi\\ServerApi.http",
-              "RelativeDocumentMoniker": "ServerApi\\ServerApi.http",
-              "ToolTip": "C:\\git\\memorydumpapis\\ServerApi\\ServerApi.http",
-              "RelativeToolTip": "ServerApi\\ServerApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-04-16T20:34:56.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\git\\memorydumpapis\\ServerApi\\Program.cs",
-              "RelativeDocumentMoniker": "ServerApi\\Program.cs",
-              "ToolTip": "C:\\git\\memorydumpapis\\ServerApi\\Program.cs",
-              "RelativeToolTip": "ServerApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T20:27:18.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DocumentController.cs",
-              "DocumentMoniker": "C:\\git\\memorydumpapis\\ServerApi\\Controllers\\DocumentController.cs",
-              "RelativeDocumentMoniker": "ServerApi\\Controllers\\DocumentController.cs",
-              "ToolTip": "C:\\git\\memorydumpapis\\ServerApi\\Controllers\\DocumentController.cs",
-              "RelativeToolTip": "ServerApi\\Controllers\\DocumentController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T20:26:29.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ServerApi",
-              "DocumentMoniker": "C:\\git\\memorydumpapis\\ServerApi\\ServerApi.csproj",
-              "RelativeDocumentMoniker": "ServerApi\\ServerApi.csproj",
-              "ToolTip": "C:\\git\\memorydumpapis\\ServerApi\\ServerApi.csproj",
-              "RelativeToolTip": "ServerApi\\ServerApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-16T20:26:06.371Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -145,15 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DocumentPayload.cs",
-              "DocumentMoniker": "C:\\git\\memorydumpapis\\ServerApi\\Models\\DocumentPayload.cs",
-              "RelativeDocumentMoniker": "ServerApi\\Models\\DocumentPayload.cs",
-              "ToolTip": "C:\\git\\memorydumpapis\\ServerApi\\Models\\DocumentPayload.cs",
-              "RelativeToolTip": "ServerApi\\Models\\DocumentPayload.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\git\\memorydumpapis\\ServerApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ServerApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\git\\memorydumpapis\\ServerApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ServerApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T19:14:06.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\git\\memorydumpapis\\ServerApi\\Startup.cs",
+              "RelativeDocumentMoniker": "ServerApi\\Startup.cs",
+              "ToolTip": "C:\\git\\memorydumpapis\\ServerApi\\Startup.cs",
+              "RelativeToolTip": "ServerApi\\Startup.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T20:25:49.148Z",
+              "WhenOpened": "2025-04-17T18:55:53.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git\\memorydumpapis\\ServerApi\\Program.cs",
+              "RelativeDocumentMoniker": "ServerApi\\Program.cs",
+              "ToolTip": "C:\\git\\memorydumpapis\\ServerApi\\Program.cs",
+              "RelativeToolTip": "ServerApi\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T20:27:18.671Z",
               "EditorCaption": ""
             }
           ]

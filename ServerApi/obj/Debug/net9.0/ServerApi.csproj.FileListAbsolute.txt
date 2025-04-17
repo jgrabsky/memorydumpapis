@@ -5,6 +5,7 @@ C:\git\memorydumpapis\ServerApi\obj\Debug\net9.0\ServerApi.AssemblyInfo.cs
 C:\git\memorydumpapis\ServerApi\obj\Debug\net9.0\ServerApi.csproj.CoreCompileInputs.cache
 C:\git\memorydumpapis\ServerApi\obj\Debug\net9.0\ServerApi.MvcApplicationPartsAssemblyInfo.cs
 C:\git\memorydumpapis\ServerApi\obj\Debug\net9.0\ServerApi.MvcApplicationPartsAssemblyInfo.cache
+C:\git\memorydumpapis\ServerApi\obj\Debug\net9.0\ServerApi.sourcelink.json
 C:\git\memorydumpapis\ServerApi\bin\Debug\net9.0\appsettings.Development.json
 C:\git\memorydumpapis\ServerApi\bin\Debug\net9.0\appsettings.json
 C:\git\memorydumpapis\ServerApi\bin\Debug\net9.0\ServerApi.staticwebassets.endpoints.json
@@ -31,3 +32,6 @@ C:\git\memorydumpapis\ServerApi\obj\Debug\net9.0\refint\ServerApi.dll
 C:\git\memorydumpapis\ServerApi\obj\Debug\net9.0\ServerApi.pdb
 C:\git\memorydumpapis\ServerApi\obj\Debug\net9.0\ServerApi.genruntimeconfig.cache
 C:\git\memorydumpapis\ServerApi\obj\Debug\net9.0\ref\ServerApi.dll
+C:\git\memorydumpapis\ServerApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\git\memorydumpapis\ServerApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\git\memorydumpapis\ServerApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
